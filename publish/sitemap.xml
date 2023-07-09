@@ -80,13 +80,13 @@
     </url>
   
     <url>
-      <loc>https://agenciahardcore.netlify.app/app/index</loc>
+      <loc>https://agenciahardcore.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://agenciahardcore.netlify.app/admin/index</loc>
+      <loc>https://agenciahardcore.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
